@@ -6,7 +6,7 @@
 
  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8R-XmPn8hEjZ2Hil84D4JA.png" width="50%" height="auto" />
 
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
