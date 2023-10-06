@@ -5,14 +5,20 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wenlong-dai-218491234/)
 
  
-Welcome to my Github page! I am Wenlong!  
- 
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - Game develop
 - Image generation
+
+#### 💪 Challenge for myself recently 💪:
+- Wake up eariler than usual
+- have at least 3 meals a day
+- code as much as I can
+- working on game design 
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
