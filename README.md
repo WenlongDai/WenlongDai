@@ -3,28 +3,18 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WenlongDai)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wenlong-dai-218491234/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](wenlongdai23@gmail.com)
+
  
 Welcome to my Github page! I am Wenlong!  
  
 <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
  
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
- 
- 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
-- Stable Diffusion
+- Game develop
 - Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
+
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
