@@ -9,7 +9,7 @@
 
 <img align="right" alt="img" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8R-XmPn8hEjZ2Hil84D4JA.png" width="50%" height="auto" />
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenlongdai)](https://github.com/anuraghazra/github-readme-stats)
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - Game develop
@@ -23,6 +23,7 @@
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
+ 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WenlongDai&show_icons=true&hide_border=true" />
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
