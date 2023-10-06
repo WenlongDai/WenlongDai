@@ -9,7 +9,7 @@
 
 <img align="right" alt="img" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8R-XmPn8hEjZ2Hil84D4JA.png" width="50%" height="auto" />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenlongdai)](https://github.com/anuraghazra/github-readme-stats)
+ 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - Game develop
