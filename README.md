@@ -14,6 +14,7 @@
 - Game develop
 - Image generation
 
+#### ⚡ Things recent ones I'm interested in ⚡ : 
 #### 💪 Challenge for myself recently 💪:
 - Wake up eariler than usual
 - have at least 3 meals a day
